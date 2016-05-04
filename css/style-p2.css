@@ -1,0 +1,45 @@
+html {
+	font-family: Arial;
+	color: black;
+}
+h1 {
+	font-size: 18px;
+	font-style: bold;
+	text-align: center;
+	padding-top: 25px;
+}
+h2 {
+	font-size: 40px;
+	font-style: bold;
+	text-align: center;
+}
+h3 {
+	font-style: bold;
+	font-size: 22px;
+	text-align: left;
+	margin: 0 200;
+}
+h4 {
+	font-style: bold;
+	font-style: 18px;
+	margin: 0 200;
+}
+p {
+	font-style: 14px;
+	width: 500px
+	padding-left: 200px;
+	margin: 0 200;
+}
+ul { 
+	margin: 0 200;
+}
+a {
+	color: black;
+}
+img {
+	width: 250px;
+	align-content: center;
+	padding: 1px;
+	border: black 1px solid;
+	margin: 10 0;
+}
